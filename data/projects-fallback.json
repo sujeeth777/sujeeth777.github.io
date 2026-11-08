@@ -1,8 +1,44 @@
 {
   "source": "github",
-  "generated_at": "2026-11-07T22:10:16Z",
-  "count": 22,
+  "generated_at": "2026-11-08T22:20:03Z",
+  "count": 24,
   "repos": [
+    {
+      "name": "Sujeeth-Trading-AI",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/sujeeth777/Sujeeth-Trading-AI",
+      "homepage": "",
+      "topics": [],
+      "pushed_at": "2026-11-08T16:27:04Z",
+      "archived": false
+    },
+    {
+      "name": "courseverse",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/sujeeth777/courseverse",
+      "homepage": "",
+      "topics": [],
+      "pushed_at": "2026-11-08T12:27:06Z",
+      "archived": false
+    },
+    {
+      "name": "allknowdev",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/sujeeth777/allknowdev",
+      "homepage": "https://allknowdev.vercel.app",
+      "topics": [],
+      "pushed_at": "2026-11-08T12:14:35Z",
+      "archived": false
+    },
     {
       "name": "sujeeth777.github.io",
       "description": "",
@@ -12,7 +48,7 @@
       "url": "https://github.com/sujeeth777/sujeeth777.github.io",
       "homepage": "https://sujeeth777.github.io/",
       "topics": [],
-      "pushed_at": "2026-11-06T23:22:38Z",
+      "pushed_at": "2026-11-07T22:10:17Z",
       "archived": false
     },
     {
@@ -61,18 +97,6 @@
       "homepage": "",
       "topics": [],
       "pushed_at": "2026-11-04T21:05:54Z",
-      "archived": false
-    },
-    {
-      "name": "allknowdev",
-      "description": "",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/sujeeth777/allknowdev",
-      "homepage": "https://allknowdev.vercel.app",
-      "topics": [],
-      "pushed_at": "2026-11-04T19:39:06Z",
       "archived": false
     },
     {
