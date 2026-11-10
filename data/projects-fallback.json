@@ -1,8 +1,20 @@
 {
   "source": "github",
-  "generated_at": "2026-11-08T22:20:03Z",
+  "generated_at": "2026-11-10T01:42:18Z",
   "count": 24,
   "repos": [
+    {
+      "name": "sujeeth777.github.io",
+      "description": "",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/sujeeth777/sujeeth777.github.io",
+      "homepage": "https://sujeeth777.github.io/",
+      "topics": [],
+      "pushed_at": "2026-11-08T22:20:04Z",
+      "archived": false
+    },
     {
       "name": "Sujeeth-Trading-AI",
       "description": "",
@@ -37,18 +49,6 @@
       "homepage": "https://allknowdev.vercel.app",
       "topics": [],
       "pushed_at": "2026-11-08T12:14:35Z",
-      "archived": false
-    },
-    {
-      "name": "sujeeth777.github.io",
-      "description": "",
-      "language": "CSS",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/sujeeth777/sujeeth777.github.io",
-      "homepage": "https://sujeeth777.github.io/",
-      "topics": [],
-      "pushed_at": "2026-11-07T22:10:17Z",
       "archived": false
     },
     {
